@@ -13,3 +13,16 @@ body {
     justify-content: center;
     gap: 1rem;
 }
+
+#question {
+    font-size: 3rem;
+}
+
+footer {
+    opacity: 10%;
+    transition: 200ms opacity;
+}
+
+footer:hover {
+    opacity: 1;
+}
